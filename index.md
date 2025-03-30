@@ -12,6 +12,8 @@ bcraft discord js yada yada yada
 > where to get credentials? [discord developers panel](https://discord.com/developers/application). more instruction go google or bing or something. just note that dont leak ur bot's credentials (you have been warned) (discord is rlly quick if you accidentally post a token **publicly** and revoke that token. dont ask why i know)
 - to run the bot `node index.js` is your friend
 
+## Updating commands (sync commands to guilds)
+- run `node syncCommands.js`
 
 # Support
 the fuck you want from me with my 2 braincells
