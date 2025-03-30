@@ -16,6 +16,7 @@ pids/
 
 # Environment variables
 .env
+config.json
 
 # Build output
 dist/
