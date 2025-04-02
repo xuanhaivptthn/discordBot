@@ -44,3 +44,6 @@ Thumbs.db
 
 # eslint config
 eslint.config.js
+
+# additional folders
+commands/utility/FileDL
